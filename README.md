@@ -1,4 +1,4 @@
-# cli-password-drive
+# Cli password manager
 # How to install:
 1) git clone https://github.com/Oleg-Pashchenko/cli-password-drive.git
 2) chmod +x passwords
