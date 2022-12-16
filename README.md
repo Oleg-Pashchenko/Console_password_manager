@@ -1,4 +1,7 @@
-# Cli password manager
+# Console password manager
+<div align="center">
+  <img src=logo.png>
+</div>
 # How to install:
 1) git clone https://github.com/Oleg-Pashchenko/cli-password-drive.git
 2) chmod +x passwords
